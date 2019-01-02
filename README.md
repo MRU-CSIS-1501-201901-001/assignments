@@ -1,1 +1,1 @@
-# assignments
+# COMP1501 Assignments
