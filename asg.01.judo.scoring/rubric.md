@@ -2,7 +2,7 @@
 
 Code is not only meant to be **run**; it's also meant to be **read**. As such, I consider it equally important that your code _does what it's supposed to do_ **AND** _be easy to read and understand_. The marking scheme reflects this.
 
-An assignment is also an excellent opportunity to open up a conversation between a reader of the code (that's me) and the writer of the code (that's you). Getting feedback about what you've created - both the "good" and the "needs work" part - is super important. As such, instead of providing some quick cookie-cutter comments, I am willing (and eager!) to sit down with each student and go over their code with them. So if you want to have that conversation - and I hope you do - please contact me in person or by email after you get your marks back and we'll arrang a mutually-acceptable time when we can talk about your code.
+An assignment is also an excellent opportunity to open up a conversation between a reader of the code (that's me) and the writer of the code (that's you). Getting feedback about what you've created - both the "good" and the "needs work" part - is super important. As such, instead of providing some quick cookie-cutter comments, I am willing (and eager!) to sit down with each student and go over their code with them. So if you want to have that conversation - and I hope you do - please contact me in person or by email after you get your marks back and we'll arrange a mutually-acceptable time when we can talk about your code.
 
 ---
 
