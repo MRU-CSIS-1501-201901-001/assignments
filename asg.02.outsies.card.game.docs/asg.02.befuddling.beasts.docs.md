@@ -56,13 +56,8 @@ Let's watch a couple of runs so you can get a feel for all this.
 
 > Commentary on Run 1
 >
-> - The application starts off with a welcome to the application and then "Hajime!", which means "begin!". (You don't need to write this code; it's already done for you.)
-> - The user is prompted for an event. [See `Event Syntax` below for more details.]
-> - The first event entered here is `14`, meaning "14 seconds pass"; notice how in the resulting display, the time remaining has gone down to 2:46.
-> - The next event entered is `3 w y`; this means that 3 seconds after the last event, the (w)hite athlete scored a (y)uko.
-> - Then we have a `120`; 120 seconds has passed but no poiints have been scored. Note the time - there's 38 seconds left on the clock...do you understand why?
-> - Finally, we have a `2 b i` - 2 seconds after the last event, (b)lue scores an (i)ppon, which wins the match.
-> - Since the match is over by ippon, the application prints out "Ippon!" and the winner (blue) is also announced. The last thing we see is a message in Japanese thanking the user.
+> - The application starts up and shows the `PlayAreaView`, which consists of the current colors available (3 red, 4 green, and 3 blue here), the current score (000), a list of beast cards in the player's hand, and some menu options.
+> - Although things are all colored nicely, you only need to do that for an A+ level. Maybe you want to wait to do that until later?
 
 **Example Run 2**
 
@@ -70,7 +65,7 @@ Let's watch a couple of runs so you can get a feel for all this.
 
 > Commentary on Run 2
 >
-> - **That** was quick - 10 seconds into the match, blue scores an ippon.
+> - Here we see what happens when a user tries to enter an invalid menu option: a semi-helpful error message is displayed and then the user is re-prompted.
 
 **Example Run 3**
 
@@ -78,57 +73,13 @@ Let's watch a couple of runs so you can get a feel for all this.
 
 > Commentary on Run 3
 >
-> - This match shows what happens if the time runs out and nobody has won outright (through ippon or awasete ippon): blue and white have the same number of waza-ari...but blue has more yuko, so blue wins on points.
-> - The message no longer says "Ippon!" - instead it says "Sore made!" ("finished/time up").
+> - This is a bit longer...let's walk through this.
+> - 
 
 **Example Run 4**
 
 ![Screenshot](images/capture-04.PNG)
 
-> Commentary on Run 1
+> Commentary on Run 4
 >
-> - In this match, white racks up a bunch of yuko - but blue answers with a waza-ari and then another one; these two together count as a special ippon ("awasete ippon") and so the match is over and blue wins again. I seem to be favouring blue. Just noticed that. Weird.
-
-#### Event Syntax
-
-An event will be **one line** of text entered from the keyboard. The text will be **either**:
-
-1. \[time elapsed since last event\]
-1. \[time elapsed since last event\] \[athlete colour\] \[type of point\]
-
-The first type of event just represents the passing of time; the second one represents the passing of time AND a type of point awarded to one of the athletes.
-
-**Examples**:
-
-- `12`
-  - this means that 12 seconds have elapsed since the last event
-- `87`
-  - this means that 1 minute and 27 seconds have elapsed since the last event
-- `5 w y`
-  - this means that 5 seconds after the last event, the white player scored a yuko
-- `17 b i`
-  - this means that 17 seconds after the last event, the blue player scored an ippon
-- `120 w w`
-  - this means that 120 seconds (2 minutes) after the last event, the white player scored a waza-ari
-
-#### Assumptions you can make
-
-- all user input will be valid; any text will be lowercase letters; only positive integers will be entered when numbers are expected; no invalid characters will be entered
-- you can't assume that the time elapsed will not go over the amount of the match - but you don't have to worry about it if it does
-
-#### Classes involved in this assignment
-
-This assignment involves a number of different classes; some of them you need to make code for, while others don't need to be touched.
-
-Here are the classes - the source code for all classes needs to go in the `src` directory:
-
-- `ColorHelper` [done for you](ColorHelper.docs.md)
-- `JudoMatch` [you need to create](JudoMatch.docs.md)
-- `JudoScoreboard` [you need to create](JudoScoreboard.docs.md)
-- `JudoScoringApp` [done for you](JudoScoringApp.docs.md)
-- `Main` [done for you](Main.docs.md)
-
-#### Instructions
-
-1. create source code in `src` for a class called `JudoMatch` that passes all its tests. Further details on `JudoMatch` can be found in JudoMatch.docs.md.
-1. create source code in `src` for a class called `JudoScoreboard` that passes all its tests. Further details on `JudoScoreboard` can be found in JudoScoreboard.docs.md.
+> - TBA
