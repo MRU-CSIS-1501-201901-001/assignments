@@ -10,7 +10,7 @@ So I started to do that, and one thing led to another, and we wound up here. Lif
 
 If you haven't done the **WEEK-03: MtG card** drill, I'd suggest doing it before continuing. Also, having any of the **WEEK-06: input validation** drills would be useful as well. Oh, and **WEEK-04: rewarder**. But not the hex grid drill - that'd be a jerk move.
 
-**The Game Of Befuddling Beasts**
+#### The Game Of Befuddling Beasts
 
 In Befuddling Beasts (just a name I made up), you have a hand of beast cards that cost a certain combination of colors (Red, Green, and Blue) to play. You also have a "pool" of colors (red, green, and blue) that you use to pay for these beasts.
 
@@ -73,8 +73,12 @@ Let's watch a couple of runs so you can get a feel for all this.
 
 > Commentary on Run 3
 >
-> - This is a bit longer...let's walk through this.
-> - 
+> - This is a bit longer...let's walk through this. The player currently is unable to play any cards, thanks to a shortage of R(ed).
+> - The first thing we see is that when the player tries to play a card anyway, but since they don't have the colors to do so, they are told "You have no playable card" and the PlayAreaView is displayed again.
+> - Next, the player decides to draw, hoping to snag that red. We see that they are told that they've drawn a B(lue) and another beast - notice how the ColorPoolView reflects the addition of the new color, and the HandView displays the new card.
+> - The player draws again, this time getting a (R)ed and another card.
+> - Now that they have a red, the player chooses P and is asked for the number of the card to play. They bung it up a number of times, so they game keeps prompting them for a valid number until they get it right.
+> - After the valid card play, the player is given 7 points (see the `The Game Of Befuddling Beasts` section above for scoring details). This score is shown in the CurrentScoreView.
 
 **Example Run 4**
 
@@ -82,4 +86,6 @@ Let's watch a couple of runs so you can get a feel for all this.
 
 > Commentary on Run 4
 >
-> - TBA
+> - Here's a shot of a game ending (here, it's with a quit, but the same could happen if the player reached or surpassed the target ending score of 30 points).
+> - The player is given their points for cards scored, a penalty is assigned as described above in the `The Game Of Befuddling Beasts` section, and the final score is presented.
+> - Note how the penalty report includes both the penalty points **AND** the number of cards left in hand.
