@@ -22,11 +22,11 @@ These are classes that are fully complete - you can (and should) read them, but 
 
 These are classes that are _partially_ completed; there are some methods that you will need to complete to make the class work properly:
 
-1. [BeffudlingBeastsGame](class.docs/docs.BefuddlingBeastsGame.md)
+1. [BefuddlingBeastsGame](class.docs/docs.BefuddlingBeastsGame.md)
 
 ## Classes You Must Complete On Your Own
 
-These are classes that you need to create from scratch. **They must follow the public interface given to you**; if they don't, significant mark reduction will occur. I've tried to indicate how easy I think each class is to code (☆ = easiest, ☆☆☆ = hardest). I also the dependencies for the class - that is, what classes you need to complete before you can work on the given class. 
+These are classes that you need to create from scratch. **They must follow the public interface given to you**; if they don't, significant mark reduction will occur. I've tried to indicate how easy I think each class is to code (☆ = easiest, ☆☆☆ = hardest). I also the dependencies for the class - that is, what classes you need to complete before you can work on the given class.
 
 These all hyperlink to a document describing the class and what you'll need to code up.
 

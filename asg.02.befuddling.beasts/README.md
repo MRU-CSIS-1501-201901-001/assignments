@@ -18,9 +18,9 @@ When asked for the task identifier, please use **asg02**.
 1. take a **quick** glance through the docs for the different classes that are involved in the software you are building - they'll give you a feel for how all the pieces of the application work together
 1. cherry pick a non-threatening class from the list of classes used and get it passing its tests. Don't forget to run both `make tests` and `make style` periodically to maintain sanity.
    - look at the **How to check your work** section below on how to run the different types of tests
-1. once all tests are passing green and you've completed the private helper methods in `BeffudlingBeastsGame.java`, you should have a working application.
+1. once all tests are passing green and you've completed the private helper methods in `BefuddlingBeastsGame.java`, you should have a working application.
 
-## A few WARNINGS or perhaps HINTS
+## A few WARNINGS, or perhaps HINTS
 
 - The number of classes you are being asked to build might seem overwhelming - perhaps even disheartening. As with many things in life that seem this way at first glance, the toughest part is taking that first step. Once you get moving, you'll start to build momentum.
 - Don't forget to run tests and style checks frequently; it's **SOOOO** much easier to do lots of tiny little fixes as you work than one monster fix at the end.
