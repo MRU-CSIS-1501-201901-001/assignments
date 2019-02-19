@@ -18,6 +18,8 @@ An assignment is also an excellent opportunity to open up a conversation between
 
 > If your code successfully passes most of the tests, with a minor bug or two, but is still easy to follow, you've got yourself a B. I know that "most of the tests" sounds vague. I agree.
 >
+> Also, if you have fully-functioning code, but is not well-formatted and well-designed, you'll wind up at this level.
+>
 > As with an A, whether you get a B+, B, or B- depends on how well you follow the design guidelines.
 
 #### C Level
