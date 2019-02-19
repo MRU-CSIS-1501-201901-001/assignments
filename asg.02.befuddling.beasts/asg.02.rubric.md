@@ -12,7 +12,7 @@ An assignment is also an excellent opportunity to open up a conversation between
 
 #### A Level
 
-> If your code successfully passes all tests and is easy to understand, you'll get an A. Whether the A is an A-, A, or A+ depends on how well you followed the [design guidelines](design.guidelines.md).
+> If your code successfully passes all tests and is easy to understand because you have formatted it well and followed the [design guidelines](design.guidelines.md), you'll get an A. Whether the A is an A-, A, or A+ depends on how well you followed the [design guidelines](design.guidelines.md).
 
 #### B Level
 
