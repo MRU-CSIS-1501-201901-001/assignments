@@ -8,6 +8,10 @@ To submit your assignment, please use the usual **submit1501** on INS.
 
 When asked for the task identifier, please use **asg02**.
 
+**LATE SUBMISSIONS**
+
+Assignments can be handed in a maximum of 48 hours late. For every 24 hour period, your letter grade will go down by one "level". For example, an A goes to an A-, a B- goes to a C+.
+
 **WEIGHT: 5%**
 
 ## A suggested PLAN OF ATTACK
