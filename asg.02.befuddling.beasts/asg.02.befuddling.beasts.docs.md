@@ -52,7 +52,7 @@ Let's watch a couple of runs so you can get a feel for all this.
 
 **Example Run 1**
 
-![Screenshot](images/capture-02.PNG)
+![Screenshot](images/capture-01.PNG)
 
 > Commentary on Run 1
 >
