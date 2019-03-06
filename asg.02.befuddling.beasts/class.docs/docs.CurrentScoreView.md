@@ -16,7 +16,7 @@ Its job in life is to return a String with a specific format that can be placed 
 
 ### public String view()
 
-> This method returns a specifically-formatted String - take a look at the sample runs in [asg.02.befuddling.beasts.docs](asg.02.befuddling.beasts.docs.md) to see what it should look like. (Note the number of leading 0s....)
+> This method returns a specifically-formatted String - take a look at the sample runs in [../asg.02.befuddling.beasts.docs](asg.02.befuddling.beasts.docs.md) to see what it should look like. (Note the number of leading 0s....)
 
 ### public String toString()
 
