@@ -26,4 +26,4 @@ Its job in life is to represent a beast card. The code used here is **very** sim
 
 ### public String toString()
 
-> This is optional; you may find it useful for debugging.
+> This is **NOT** optional.
