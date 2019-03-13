@@ -38,7 +38,7 @@ Again, since you're forging your own path here, I will want some documentation. 
 
 You will be adding your own classes to an assignment directory already created for you.
 
-Please copy the directory `/users/library/csis/comp1501/assignments/3.knizia.decathlon` to your home directory.
+Please copy the directory `/users/library/csis/comp1501/assignments/3.asg.knizia.decathlon` to your home directory.
 
 Any classes you make should be placed, as always, in the `src` directory.
 
