@@ -28,7 +28,7 @@ This might not be apparent at first glance, so I'll provide some hints to help y
 
 > This is the constructor. 
 >
-> It takes in the score the game should end when reached and the Hand of the user.
+> It takes in the score at which the game should end and the Hand of the user.
 >
 > It needs the former to decide whether the game is over and the latter to figure out penalty points at the end of the game.
 
