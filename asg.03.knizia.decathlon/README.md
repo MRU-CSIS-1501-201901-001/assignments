@@ -52,7 +52,7 @@ You have been provided automated tests for the classes I am "forcing" you to mak
 - HighScoresPersistanator
 - PlayerScore
 
-As always, you can run tests using the command **make tests** from the `3.knizia.decathlon` directory - don't try and run it from the `src` directory....sucker will NOT work.
+As always, you can run tests using the command **make tests** from the `3.asg.knizia.decathlon` directory - don't try and run it from the `src` directory....sucker will NOT work.
 
 If you want to see whether your code is _following the coding standards for this course_, you can run the command **make style -i** from the `3.knizia.decathlon` directory as well.
 
