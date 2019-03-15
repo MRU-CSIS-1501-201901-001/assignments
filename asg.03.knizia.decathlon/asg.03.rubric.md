@@ -54,6 +54,7 @@ I'm grouping the events into the following categories:
 > - [ ] all HighScoresPersistanator tests pass
 > - [ ] the program validates all user input
 > - [ ] at least one event from **2 of the 4 categories** is playable
+> - [ ] high score save/load functionality works
 > - [ ] all public methods have reasonable Javadocs
 >
 > As with an A, whether you get a B+, B, or B- depends on how well you follow the design guidelines.
