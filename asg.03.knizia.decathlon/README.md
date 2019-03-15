@@ -17,6 +17,10 @@ Assignments can be handed in a maximum of 48 hours late. For every 24 hour perio
 
 Since I have no clue what you're going to build, you will have to demonstrate your application to me. You will need to set up a time with me on **April 4 or 5** to spend 10 minutes where we will sit down together and you will show me your stuff.
 
+## BUG FIX OPPORTUNITY
+
+If, during the demonstrations, any major bugs are discovered, I will give you 24 hours to fix them and then re-demo your work if you so desire, so that you can improve your grade. Make sure that when you fix the bug(s), you do not introduce NEW bugs!
+
 ## DOCUMENTATION
 
 Again, since you're forging your own path here, I will want some documentation. You will need to use Javadoc-style comments for all public methods in your code **except for the code in the classes I am forcing you to write** (wo Dice, HighScores, etc.).
