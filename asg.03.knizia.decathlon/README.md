@@ -53,7 +53,7 @@ You have been provided automated tests for the classes I am "forcing" you to mak
 - Dice
 - DiceCollection
 - HighScores
-- HighScoresPersistanator
+- HighScoresPersistenator
 - PlayerScore
 
 As always, you can run tests using the command **make tests** from the `3.asg.knizia.decathlon` directory - don't try and run it from the `src` directory....sucker will NOT work.
