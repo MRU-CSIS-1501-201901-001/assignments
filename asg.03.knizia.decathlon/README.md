@@ -23,7 +23,9 @@ If, during the demonstrations, any major bugs are discovered, I will give you 24
 
 ## DOCUMENTATION
 
-Again, since you're forging your own path here, I will want some documentation. You will need to use Javadoc-style comments for all public methods in your code **except for the code in the classes I am forcing you to write** (wo Dice, HighScores, etc.).
+Again, since you're forging your own path here, I will want some documentation. You will need to use Javadoc-style comments for some public methods in **your** code (so **not** Dice, HighScores, etc.).
+
+You will need to document 5 public methods, 3 of which must use **@param** and 3 of which must use **@return** - if you have a method that uses both, then yes, that counts for both!
 
 ## A suggested PLAN OF ATTACK
 
