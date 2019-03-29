@@ -32,6 +32,6 @@ Its job in life is to be a collection of high scores for your game.
 
 > Returns the PlayerScore at the given ranking (which starts at 1). If the ranking given is out of bounds, then returns null...which makes me sad, but there you have it.
 
-### public PlayerScore numScores()
+### public int numScores()
 
 > Returns the number of high scores.
