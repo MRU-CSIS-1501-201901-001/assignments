@@ -41,7 +41,7 @@ Good question. It's because of testing - it's a right pain to test something tha
 >
 > If the dice hasn't been rolled yet, or if the next value in the String used to initialize the dice isn't a valid integer, this method returns -1.
 
-### public roll()
+### public void roll()
 
 > Rolls this dice, either generating a new random number, or setting the next value to be the next integer value in the preset String.
 >
