@@ -38,7 +38,7 @@ I'm grouping the events into the following categories:
 > - [ ] all HighScores tests pass
 > - [ ] all HighScoresPersistanator tests pass
 > - [ ] the program validates all user input
-> - [ ] at least one event from **each** category is playable
+> - [ ] at least one event from **2 of the 4 categories** is playable
 > - [ ] high score save/load functionality works
 > - [ ] Javadocs are complete as per specifications
 >
@@ -53,7 +53,7 @@ I'm grouping the events into the following categories:
 > - [ ] all HighScores tests pass
 > - [ ] all HighScoresPersistanator tests pass
 > - [ ] the program validates all user input
-> - [ ] at least one event from **2 of the 4 categories** is playable
+> - [ ] at least one event from **1 of the 4 categories** is playable
 > - [ ] high score save/load functionality works
 > - [ ] Javadocs are complete as per specifications
 >
@@ -67,8 +67,7 @@ I'm grouping the events into the following categories:
 > - [ ] all DiceCollection tests pass
 > - [ ] all HighScores tests pass
 > - [ ] all HighScoresPersistanator tests pass
-> - [ ] the program validates all user input
-> - [ ] at least one event from **1 of the 4 categories** is playable
+> - [ ] the program uses a stubbed version of one event from **1 of the 4 categories**
 > - [ ] Javadocs are complete as per specifications
 >
 > As with an A, whether you get a C+, C, or C- depends on how well you follow the design guidelines.
@@ -81,8 +80,6 @@ I'm grouping the events into the following categories:
 > - [ ] all DiceCollection tests pass
 > - [ ] all HighScores tests pass
 > - [ ] all HighScoresPersistanator tests pass
-> - [ ] the program validates all user input
-> - [ ] the program uses a stubbed version of one event from **1 of the 4 categories**
 >
 > As with an A, whether you get a D+, D, or D- depends on how well you follow the design guidelines.
 
