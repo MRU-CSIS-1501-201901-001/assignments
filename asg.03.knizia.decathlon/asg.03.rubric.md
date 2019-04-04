@@ -40,7 +40,7 @@ I'm grouping the events into the following categories:
 > - [ ] the program validates all user input
 > - [ ] at least one event from **each** category is playable
 > - [ ] high score save/load functionality works
-> - [ ] all public methods have reasonable Javadocs
+> - [ ] Javadocs are complete as per specifications
 >
 > Of course, to receive an A level, your code must also be easy to understand. Whether the A is an A-, A, or A+ depends on how well you followed the [design guidelines](design.guidelines.md).
 
@@ -55,7 +55,7 @@ I'm grouping the events into the following categories:
 > - [ ] the program validates all user input
 > - [ ] at least one event from **2 of the 4 categories** is playable
 > - [ ] high score save/load functionality works
-> - [ ] all public methods have reasonable Javadocs
+> - [ ] Javadocs are complete as per specifications
 >
 > As with an A, whether you get a B+, B, or B- depends on how well you follow the design guidelines.
 
@@ -69,7 +69,7 @@ I'm grouping the events into the following categories:
 > - [ ] all HighScoresPersistanator tests pass
 > - [ ] the program validates all user input
 > - [ ] at least one event from **1 of the 4 categories** is playable
-> - [ ] all public methods have reasonable Javadocs
+> - [ ] Javadocs are complete as per specifications
 >
 > As with an A, whether you get a C+, C, or C- depends on how well you follow the design guidelines.
 
